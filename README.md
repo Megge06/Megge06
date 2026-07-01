@@ -4,7 +4,7 @@ Computer Science student doing anything and everything I find fun.
 
 ### Currently Working On
 
-**IndieWeb** — a personal website
+**MeggeMe** - a personal website
 
 ### Interests
 
